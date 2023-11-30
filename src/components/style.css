@@ -1,0 +1,20 @@
+.logo {
+  width: 50px;
+}
+
+.item {
+  width: 300px;
+  padding: 3px;
+  align-items: center;
+}
+
+.burgerlayout {
+  overflow: scroll;
+  height: 50vh;
+  width: 500px;
+}
+
+.loader {
+  width: 3rem;
+  height: 3rem;
+}
